@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: DELLI7_3000
 
 steps:
 - script: echo Hello, world!
